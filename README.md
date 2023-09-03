@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning : c#(씨샵), Unity(유니티)<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
