@@ -53,6 +53,3 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/joonki07/count.svg?"  />
-
-###
