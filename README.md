@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=GAMEdeveloper&fontAlign=50&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=GAME_developer&fontAlign=50&fontAlignY=40&color=gradient)
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Joonki%20&height=300&fontSize=100&textBg=true,https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 ###
 
