@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&text=게임개발자)
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20게임개발자%20%20&fontAlign=30&fontSize=30&textBg=true&desc=GAME%20%27developer%27&descAlign=60&descAlignY=50)
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Joonki%20&height=300&fontSize=100&textBg=true,https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 ###
 
