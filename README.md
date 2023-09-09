@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Egg&text=JoonKi)
-
+![header](https://capsule-render.vercel.app/api?type=Egg&text=게임개발자)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20JOONKI%20&height=300&fontSize=100&textBg=true,https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 ###
 
 <h1 align="left">Hey 👋 (안녕하세요)</h1>
