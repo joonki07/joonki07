@@ -36,7 +36,7 @@
 <h1 align="left">Baekjoon (백준)</h1>
 
 ###
-<div align="left">
+
   https://www.acmicpc.net/user/joonki_07
   
 ###
